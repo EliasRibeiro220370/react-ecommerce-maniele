@@ -1,0 +1,6 @@
+{
+  "name": "React E-commerce Elias Ribeiro",
+  "description": "E-commerce premium de moda praia minimalista, em tons de branco, preto e cinza claro com envio direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
