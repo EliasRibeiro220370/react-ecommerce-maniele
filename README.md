@@ -137,7 +137,7 @@ Durante o desenvolvimento foram aplicadas boas práticas de acessibilidade, incl
 
 Desenvolvedor Front-end especializado em React, TypeScript e aplicações web modernas.
 
-📧 **E-mail:** [eliasribeiro220370@gmail.com](mailto:eliasribeiro220370@gmail.com)
+📧 **E-mail:** [contato@inovacaodigital.tec.br](mailto:eliasribeiro220370@gmail.com)
 
 ---
 
