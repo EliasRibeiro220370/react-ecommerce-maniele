@@ -1,75 +1,178 @@
-# React E-commerce Maniele — Moda Praia Minimalista
+<p align="center">
+  <img width="1774" alt="React E-commerce Showcase" src="https://github.com/user-attachments/assets/d88e29b3-77bd-42bd-926a-808c541109cf" />
+</p>
 
-Um e-commerce de alta-costura para moda praia, projetado sob uma estética estritamente minimalista e focado em sofisticação conceitual. Toda a identidade visual, interfaces e transições de tela utilizam uma paleta cromática exclusiva composta apenas por **Branco, Preto e Cinza Claro**, evocando o visual de catálogos e editoriais de luxo.
+<h1 align="center">🛍️ React E-commerce Showcase</h1>
 
----
+<p align="center">
+Um e-commerce moderno desenvolvido com <strong>React</strong>, <strong>TypeScript</strong>, <strong>Vite</strong>, <strong>Tailwind CSS</strong>, <strong>Framer Motion</strong> e <strong>Supabase</strong>, criado para demonstrar boas práticas de desenvolvimento Front-end e a construção de aplicações reais.
+</p>
 
-## 🎨 O Conceito Visual: Purismo Marítimo
-Inspirado por marcas clássicas e design contemporâneo dinâmico, o **React E-commerce Maniele** elimina a poluição visual e o ruído de cores vibrantes frequentemente associados à moda praia brasileira. Em vez disso, foca-se na beleza pura da modelagem, na geometria dos cortes e na textura de fios ecológicos de alta tecnologia. 
-
-- **Branco Puro (`#ffffff`)**: Traz respiro, luz e destaca os vazios espaciais das margens.
-- **Cinza Claro (`#f5f5f5` / `#e5e5e5`)**: Define os quadros de visualização, as divisórias finas e as superfícies interativas.
-- **Preto Absoluto (`#000000`)**: Fornece peso estrutural, tipografia legível e contraste absoluto.
-
----
-
-## ⚡ Principais Funcionalidades
-
-1. **Início (Home)**: Banner editorial impactante com conceito da marca, galeria de destaques (*Best Sellers*), navegação fluida por categorias (Feminino, Masculino e Acessórios) e o Manifesto de Estilo Maniele.
-2. **Coleção Completa (Produtos)**: Filtros instantâneos por linhas, busca de texto inteligente em tempo real e ordenação dinâmica por preços ou nomes.
-3. **Página de Especificação (Detalhes)**: Seletor de tamanhos anatômicos, galeria de imagens secundárias com filtros de tom de cinza interativos e controle de quantidades.
-4. **Sacola de Compras (Carrinho)**: Edição de quantidade em tempo real, exclusão de itens e faturamento estimado inteligente.
-5. **Finalização de Pedido (Checkout)**: Formuário completo integrado à API pública **ViaCEP** (busca de endereço automatizada ao digitar o código postal do Brasil) e seleção de método de pagamento (PIX ou Cartão).
-6. **Integração Comercial via WhatsApp**: Após o fechamento do checkout, um link de redirecionamento imediato é construído para o número comercial da marca (`+55 21 96897-6671`), enviando os dados completos do pedido perfeitamente formatados em markdown (produtos, tamanhos, quantidades, dados de entrega e método de pagamento).
-7. **Modo Escuro / Claro Inteiramente Customizado**: Um interruptor de tema minimalista permite que o usuário alterne toda a paleta entre um fundo branco luminoso com detalhes em cinza claro, ou um fundo preto profundo com detalhes em cinza grafite.
+<p align="center">
+🚀 Projeto desenvolvido por <strong>Elias Ribeiro</strong>
+</p>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 📌 Sobre este projeto
 
-- **React 19 + Vite 6**: Fundação da aplicação de página única (SPA).
-- **TypeScript 5**: Tipagem estrita de dados para garantir estabilidade.
-- **Tailwind CSS v4**: Controle rigoroso das classes utilitárias de estilo responsivo.
-- **Motion (framer-motion)**: Micro-animações sofisticadas para trocas de páginas e interações.
-- **Lucide React**: Biblioteca de ícones simplificados e lineares de traço fino.
-- **API ViaCEP**: Integração de rede em tempo real para experiência de checkout fluida.
+Este repositório apresenta uma **versão de demonstração** de um e-commerce desenvolvido durante um trabalho **freelance** para um cliente real.
+
+Para preservar informações comerciais e a privacidade do cliente, alguns dados foram adaptados ou substituídos por informações fictícias, mantendo a estrutura, a arquitetura e as principais funcionalidades da aplicação.
+
+O objetivo deste repositório é demonstrar conhecimentos em desenvolvimento Front-end, organização de código, componentização, responsividade, acessibilidade e integração entre tecnologias modernas do ecossistema React.
 
 ---
 
-## 📦 Estrutura do Projeto
+# 🌐 Projeto Original
+
+A versão original deste projeto encontra-se em produção e pode ser acessada através do link abaixo:
+
+**🔗 https://www.maniele.com.br**
+
+> **Observação:** Este repositório não representa o código-fonte completo utilizado em produção. Trata-se de uma versão preparada exclusivamente para demonstração em portfólio.
+
+---
+
+# ✨ Funcionalidades
+
+* 🛍️ Catálogo de produtos
+* 📦 Página de detalhes do produto
+* 🛒 Carrinho de compras
+* ➕ Adição e remoção de produtos
+* 🔢 Atualização automática das quantidades
+* 💰 Cálculo automático do valor total
+* 📋 Checkout simplificado
+* 📲 Finalização do pedido via WhatsApp (versão de demonstração)
+* 📱 Layout totalmente responsivo
+* ♿ Interface acessível
+* ⚡ Alto desempenho utilizando Vite
+* 🎨 Interface moderna com animações utilizando Framer Motion
+
+---
+
+# 🚀 Tecnologias
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" alt="Supabase"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="NPM"/>
+
+</p>
+
+---
+
+# 📱 Responsividade
+
+A aplicação foi desenvolvida seguindo o conceito **Mobile First**, garantindo excelente experiência em:
+
+* 📱 Smartphones
+* 📲 Tablets
+* 💻 Notebooks
+* 🖥️ Desktop
+
+---
+
+# ♿ Acessibilidade
+
+Durante o desenvolvimento foram aplicadas boas práticas de acessibilidade, incluindo:
+
+* Estrutura HTML semântica
+* Navegação intuitiva
+* Componentes reutilizáveis
+* Layout adaptável
+* Contraste adequado
+* Interface amigável para diferentes dispositivos
+
+---
+
+# 🎯 Objetivos do Projeto
+
+* Demonstrar conhecimentos em React e TypeScript.
+* Criar uma aplicação escalável e organizada.
+* Desenvolver uma experiência moderna para e-commerce.
+* Aplicar conceitos de UI/UX.
+* Implementar uma arquitetura baseada em componentes reutilizáveis.
+
+---
+
+# 📂 Estrutura do Projeto
 
 ```text
-├── src/
-│   ├── components/
-│   │   ├── Header.tsx                 # Barra de navegação e seletor de tema
-│   │   ├── Footer.tsx                 # Rodapé institucional e dados de contato
-│   │   ├── HomeView.tsx               # Página inicial e manifesto
-│   │   ├── ProductsView.tsx           # Catálogo com filtros de pesquisa e ordenação
-│   │   ├── ProductDetailsView.tsx     # Detalhes do item, tamanhos e galeria
-│   │   ├── CartView.tsx               # Gerenciador da sacola de compras
-│   │   └── CheckoutView.tsx           # Formulário de envio, ViaCEP e WhatsApp
-│   ├── data/
-│   │   └── products.ts                # Banco de dados fictício de itens premium
-│   ├── types.ts                       # Tipagens e interfaces TypeScript
-│   ├── App.tsx                        # Roteador interno e estado centralizado
-│   ├── index.css                      # Configuração de temas e fontes do Google
-│   └── main.tsx                       # Ponto de entrada React
-├── index.html                         # Documento HTML base
-├── metadata.json                      # Metadados de aplicativo
-└── package.json                       # Dependências e scripts de execução
+src
+ ├── assets
+ ├── components
+ ├── data
+ ├── App.tsx
+ ├── index.css
+ ├── main.tsx
+ └── types.ts
 ```
 
 ---
 
-## 🚀 Como Executar o Projeto
+# 🚀 Como executar
 
-1. Certifique-se de que possui o **Node.js** instalado.
-2. Instale as dependências executando:
-   ```bash
-   npm install
-   ```
-3. Inicialize o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
-4. O e-commerce estará acessível no endereço padrão do Vite (geralmente `http://localhost:3000`).
+```bash
+git clone https://github.com/SEU-USUARIO/react-ecommerce-showcase
+
+cd react-ecommerce-showcase
+
+npm install
+
+npm run dev
+```
+
+---
+
+# 👨‍💻 Desenvolvedor
+
+**Elias Ribeiro**
+
+Desenvolvedor Front-end especializado em React, TypeScript e aplicações web modernas.
+
+📧 **E-mail:** [eliasribeiro220370@gmail.com](mailto:eliasribeiro220370@gmail.com)
+
+---
+
+##Gostou deste projeto?
+
+Se este projeto foi útil ou inspirador, deixe uma ⭐ no repositório.
+
+Isso ajuda muito no crescimento do projeto e incentiva a criação de novos conteúdos.
+
