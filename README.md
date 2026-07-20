@@ -34,7 +34,7 @@ A versão original deste projeto encontra-se em produção e pode ser acessada a
 
 ---
 
-# ✨ Funcionalidades
+#Funcionalidades
 
 * 🛍️ Catálogo de produtos
 * 📦 Página de detalhes do produto
