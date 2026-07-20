@@ -131,35 +131,6 @@ Durante o desenvolvimento foram aplicadas boas práticas de acessibilidade, incl
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```text
-src
- ├── assets
- ├── components
- ├── data
- ├── App.tsx
- ├── index.css
- ├── main.tsx
- └── types.ts
-```
-
----
-
-# 🚀 Como executar
-
-```bash
-git clone https://github.com/SEU-USUARIO/react-ecommerce-showcase
-
-cd react-ecommerce-showcase
-
-npm install
-
-npm run dev
-```
-
----
-
 # 👨‍💻 Desenvolvedor
 
 **Elias Ribeiro**
